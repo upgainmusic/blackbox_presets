@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <session>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\kicks\LM_Ebminor_Sover-Kick.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="52405" loopstart="0" loopend="52405" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Percussion\LM_High_Hit_5.wav" gaindb="0" pitch="-2383" panpos="0" samtrigtype="0" loopmode="0" loopmodes="2" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="530" samstart="0" samlen="88434" loopstart="0" loopend="87856" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Synth and Keys\MAN_110_A_Synth_Bass_08.wav" gaindb="-1920" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="418917" loopstart="0" loopend="418917" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\SFX\DT_Fx_21_110.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="309569" loopstart="0" loopend="309569" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Snares\VIB_Live_Snare_05.wav" gaindb="2220" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="36522" loopstart="0" loopend="36522" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Percussion\NEH_Bongo.wav" gaindb="-1470" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="58838" loopstart="0" loopend="58838" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Synth and Keys\VIB_131_E_Mbira_Rez.wav" gaindb="4570" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="351756" loopstart="0" loopend="351756" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\SFX\LM_Bonus_SCIFI_SFX_SD09.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="65779" loopstart="0" loopend="65779" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Hi Hats\MAN_Hat_28.wav" gaindb="-400" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="203" envsus="81" envrel="288" samstart="0" samlen="2940" loopstart="0" loopend="66468" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Percussion\PIC_Crack_Perc_01.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="41262" loopstart="0" loopend="189026" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Synth and Keys\VIB_140_Em_Crystal_Pulse_Guitar_01.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="658285" loopstart="0" loopend="658285" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Cymbals\AAD_Cymbal_1.wav" gaindb="-1250" pitch="5196" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="96000" loopstart="0" loopend="96000" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Percussion\DUBT_Conga.wav" gaindb="-1350" pitch="-15007" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="29031" loopstart="0" loopend="29031" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Percussion\VIB_Live_Tamb_02.wav" gaindb="200" pitch="11257" panpos="0" samtrigtype="0" loopmode="0" loopmodes="2" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="325" envsus="123" envrel="443" samstart="0" samlen="14580" loopstart="0" loopend="19440" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Vocals\KV_BALU_PERC_CLASSICAL_21_G#_100.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="460800" loopstart="0" loopend="460800" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Cymbals\NEH_Ride.wav" gaindb="-8250" pitch="0" panpos="-401" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="205226" loopstart="0" loopend="205226" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+            <altcell modmode="scenetrig" modamount="1000" moddest="0"/>
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+        </track>
+    </session>
+</document>

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <session>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\03 Foley Recordings\LM_Ambience - Shorham beach windy day child running on stones.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="2" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="1812459" loopstart="0" loopend="1812459" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\LM_Kitchen - food blender.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="950791" loopstart="0" loopend="950791" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\NAS_Rain_Atmos_a_Atmos.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="0" loopmodes="1" midimode="0" reverse="0" cellmode="0" envattack="291" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="460798" loopstart="0" loopend="460798" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\SDTA_Microwave_Foley.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="1" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="714912" loopstart="0" loopend="714912" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\03 Foley Recordings\LM_Ambience - street market ambience in Turkey.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="0" loopmodes="1" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="3448093" loopstart="0" loopend="3448093" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\LM_Kitchen - gas cooker light ignition.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="406514" loopstart="0" loopend="406514" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\NAS_Rain_Fauna_a_Atmos.wav" gaindb="-5690" pitch="0" panpos="0" samtrigtype="2" loopmode="0" loopmodes="1" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="511998" loopstart="0" loopend="511998" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\TRD_Aoya_Waves_Atmos_2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="2280514" loopstart="0" loopend="2280514" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\03 Foley Recordings\LM_Ambience - train station.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="0" loopmodes="2" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="1435550" loopstart="0" loopend="1435550" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\LM_Nature - heavy thunder Brighton beach UK.wav" gaindb="-1700" pitch="0" panpos="0" samtrigtype="2" loopmode="0" loopmodes="1" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="4511474" loopstart="0" loopend="4511474" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\SDTA_Industrial_Atmos_1.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="0" loopmodes="1" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="1296000" loopstart="0" loopend="1296000" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\TRD_Bm_Arctic_Wolves_FX.wav" gaindb="-5040" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="321030" loopstart="0" loopend="321030" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\03 Foley Recordings\LM_Animal - seagulls Brighton UK rooftops.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="0" loopmodes="1" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="1722310" loopstart="0" loopend="1722310" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\NAS_Frog_Whistle_Atmos.wav" gaindb="-8550" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="418908" loopstart="0" loopend="418908" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\SDTA_Plane_Atmos.wav" gaindb="-5290" pitch="0" panpos="0" samtrigtype="2" loopmode="0" loopmodes="1" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="1632000" loopstart="0" loopend="1632000" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\03 Foley Recordings\TRD_Bm_Lush_Forest_Texture.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="0" loopmodes="1" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="3332571" loopstart="0" loopend="3332571" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+        </track>
+    </session>
+</document>

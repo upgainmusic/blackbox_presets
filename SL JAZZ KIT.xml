@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <session>
+        <cell row="0" column="0" layer="0" filename="SoundtrackLoops\SL Jazz Kit\KI O Kick 01.wav" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="44880" loopstart="0" loopend="44880" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="1" column="0" layer="0" filename="SoundtrackLoops\SL Jazz Kit\SN O Rim 02.wav" type="sample">
+            <params gaindb="-6890" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="15574" loopstart="0" loopend="15574" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="2" column="0" layer="0" filename="SoundtrackLoops\SL Jazz Kit\TO O Toms 01.wav" type="sample">
+            <params gaindb="5650" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="41817" loopstart="0" loopend="41817" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="3" column="0" layer="0" filename="SoundtrackLoops\SL Jazz Kit\DR L JazzBeats 095 11.wav" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="445642" loopstart="0" loopend="445642" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <slices/>
+        </cell>
+        <cell row="0" column="1" layer="0" filename="SoundtrackLoops\SL Jazz Kit\KI O Kick 02.wav" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="25665" loopstart="0" loopend="25665" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="1" column="1" layer="0" filename="SoundtrackLoops\SL Jazz Kit\SN O Snare 02.wav" type="sample">
+            <params gaindb="6800" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="30853" loopstart="0" loopend="30853" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="2" column="1" layer="0" filename="SoundtrackLoops\SL Jazz Kit\TO O Toms 02.wav" type="sample">
+            <params gaindb="5360" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="16324" loopstart="0" loopend="16324" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="3" column="1" layer="0" filename="SoundtrackLoops\SL Jazz Kit\DR L JazzBeats 095 13.wav" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="445642" loopstart="0" loopend="445642" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <slices/>
+        </cell>
+        <cell row="0" column="2" layer="0" filename="SoundtrackLoops\SL Jazz Kit\SN O Brush 01.wav" type="sample">
+            <params gaindb="5150" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="13373" loopstart="0" loopend="13373" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="1" column="2" layer="0" filename="SoundtrackLoops\SL Jazz Kit\SN O Snare 04.wav" type="sample">
+            <params gaindb="5010" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="7768" loopstart="0" loopend="7768" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="2" column="2" layer="0" filename="SoundtrackLoops\SL Jazz Kit\TO O Toms 03.wav" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="20768" loopstart="0" loopend="20768" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="3" column="2" layer="0" filename="SoundtrackLoops\SL Jazz Kit\DR L JazzBeats 095 19.wav" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="445642" loopstart="0" loopend="445642" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <slices/>
+        </cell>
+        <cell row="0" column="3" layer="0" filename="SoundtrackLoops\SL Jazz Kit\SN O Brush 02.wav" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="16401" loopstart="0" loopend="16401" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="1" column="3" layer="0" filename="SoundtrackLoops\SL Jazz Kit\SN O SnareFill 01.wav" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="25030" loopstart="0" loopend="25030" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="2" column="3" layer="0" filename="SoundtrackLoops\SL Jazz Kit\TO O Toms 04.wav" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="36848" loopstart="0" loopend="36848" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+            <slices/>
+        </cell>
+        <cell row="3" column="3" layer="0" filename="SoundtrackLoops\SL Jazz Kit\DR L JazzBeats 095 6.wav" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="445642" loopstart="0" loopend="445642" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+            <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+            <slices/>
+        </cell>
+        <cell row="0" column="4" layer="0" filename="" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="445642" loopstart="0" loopend="445642" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <slices/>
+        </cell>
+        <cell row="1" column="4" layer="0" filename="" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="0" loopstart="0" loopend="0" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <slices/>
+        </cell>
+        <cell row="2" column="4" layer="0" filename="" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="0" loopstart="0" loopend="0" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <slices/>
+        </cell>
+        <cell row="3" column="4" layer="0" filename="" type="sample">
+            <params gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="0" loopstart="0" loopend="0" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0" chokegrp="0" dualfilcutoff="0"/>
+            <slices/>
+        </cell>
+        <cell row="0" column="0" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="1" column="0" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="2" column="0" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="3" column="0" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="0" column="1" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="1" column="1" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="2" column="1" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="3" column="1" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="0" column="2" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="1" column="2" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="2" column="2" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="3" column="2" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="0" column="3" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="1" column="3" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="2" column="3" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="3" column="3" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="0" column="4" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="1" column="4" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="2" column="4" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="3" column="4" layer="1" type="noteseq">
+            <params notesteplen="10" notestepcount="16" dutycyc="1000" midimode="0" quantsize="1" dispmode="0" seqplayenable="0"/>
+            <sequence/>
+        </cell>
+        <cell row="0" column="0" layer="2" name="Section 1" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="1" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="2" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="3" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="4" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="5" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="6" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="7" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="8" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="9" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="10" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="11" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="12" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="13" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="14" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="15" column="0" layer="2" name="" type="section">
+            <params sectionlen="32"/>
+            <sequence/>
+        </cell>
+        <cell row="0" layer="3" type="delay">
+            <params delaymustime="6" amount="500" feedback="400" fxtrigmode="0" dealybeatsync="1" delay="400"/>
+        </cell>
+        <cell row="1" layer="3" type="reverb">
+            <params decay="600" amount="500" predelay="40" fxtrigmode="0"/>
+        </cell>
+        <cell row="2" layer="3" type="filter">
+            <params/>
+        </cell>
+        <cell row="3" layer="3" type="bitcrusher">
+            <params/>
+        </cell>
+        <cell type="song">
+            <params globtempo="95" songmode="0" sectcount="1" sectloop="1"/>
+        </cell>
+    </session>
+</document>

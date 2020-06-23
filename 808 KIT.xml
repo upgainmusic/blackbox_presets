@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <session>
+        <track excl="0" level="0" out="3">
+            <clip file="0" filename="Drums\Kick 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="15221" loopstart="0" loopend="15221" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="Drums\Crash 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="96501" loopstart="0" loopend="96501" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="Drums\TOML 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="24825" loopstart="0" loopend="24825" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="0" loopstart="0" loopend="0" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip file="0" filename="Drums\Snare 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="8050" loopstart="0" loopend="8050" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="Drums\Ride 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="752" loopstart="0" loopend="752" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="Drums\Claps 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="20608" loopstart="0" loopend="20608" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="0" loopstart="0" loopend="0" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip file="0" filename="Drums\HHC 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="7238" loopstart="0" loopend="7238" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="Drums\TOMH 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="10464" loopstart="0" loopend="10464" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="Drums\Woodblock 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="2738" loopstart="0" loopend="2738" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="0" loopstart="0" loopend="0" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip file="0" filename="Drums\HHO 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="51952" loopstart="0" loopend="51952" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="Drums\TOMM 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="19748" loopstart="0" loopend="19748" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="Drums\P1 2.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="1623" loopstart="0" loopend="1623" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <slices/>
+            </clip>
+            <clip file="0" filename="" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envrel="200" samstart="0" samlen="0" loopstart="0" loopend="0" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="0" slicestepmode="0">
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <altcell modmode="scenetrig" modamount="1000" moddest="0"/>
+            <altcell modmode="scenetrig" modamount="1000" moddest="0"/>
+            <altcell modmode="scenetrig" modamount="1000" moddest="0"/>
+            <altcell modmode="scenetrig" modamount="1000" moddest="0"/>
+        </track>
+    </session>
+</document>

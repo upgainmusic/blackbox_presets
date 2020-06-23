@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <session>
+        <track excl="1" level="0" out="3">
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Full Drum Loops\MAN_120_Drums_10_b.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="384000" loopstart="0" loopend="384000" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Full Drum Loops\EH_120_Drum_Lp_15_Full.wav" gaindb="3780" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="384000" loopstart="0" loopend="384000" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Full Drum Loops\MAN_110_Drums_24_a.wav" gaindb="1400" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="418909" loopstart="0" loopend="418909" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Full Drum Loops\MAN_110_Drums_01_a.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="418909" loopstart="0" loopend="418909" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="1" level="0" out="3">
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\LM_120_Perc_SD_Sitouki_07.wav" gaindb="1290" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="383998" loopstart="0" loopend="383998" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\LM_100_Perc_SD_Darabouka_31.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="230398" loopstart="0" loopend="230398" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\LM_100_Perc_SD_Bodhran_21.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="460797" loopstart="0" loopend="460797" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\ALL_100_Mixed_Perc_5.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="230401" loopstart="0" loopend="230401" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="1" level="0" out="3">
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\PIC_110_Shakers_06.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="837818" loopstart="0" loopend="837818" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\PIC_110_Oriental_Stick.wav" gaindb="1010" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="837818" loopstart="0" loopend="837818" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\PIC_110_BrazillianCrack_Perc_01.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="418909" loopstart="0" loopend="418909" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\PIC_110_Low_Pots_Drums.wav" gaindb="-1640" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="837818" loopstart="0" loopend="837818" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="1" level="0" out="3">
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\SDAM_128_Werkit_Perc.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="360000" loopstart="0" loopend="360000" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\PIC_120_Tribal_Toms_03.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="192000" loopstart="0" loopend="192000" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\SDAM_128_Errors_Perc.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="360000" loopstart="0" loopend="360000" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\01 Loops\Drums and Perc\Percussion\PIC_110_Synth_Tri_Clave.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="2" loopmode="1" loopmodes="0" midimode="0" reverse="0" cellmode="1" envattack="0" envdecay="0" envsus="1000" envrel="0" samstart="0" samlen="837818" loopstart="0" loopend="837818" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <altcell modmode="scenetrig" modamount="1000" moddest="0"/>
+            <altcell modmode="scenetrig" modamount="1000" moddest="0"/>
+            <altcell modmode="scenetrig" modamount="1000" moddest="0"/>
+            <altcell modmode="scenetrig" modamount="1000" moddest="0"/>
+        </track>
+    </session>
+</document>

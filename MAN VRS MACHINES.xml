@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <session>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\kicks\MAN_Kick_32.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="33234" loopstart="0" loopend="33234" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Percussion\MAN_Electro_Perc_02.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="113551" loopstart="0" loopend="113551" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Vocals\MAN_Fx_VOX_Industry.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="50675" loopstart="0" loopend="50675" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Vocals\MAN_Fx_VOX_Computer.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="44499" loopstart="0" loopend="44499" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Snares\MAN_Snares_34.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="54998" loopstart="0" loopend="54998" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Percussion\MAN_Electro_Perc_16.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="71672" loopstart="0" loopend="71672" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Vocals\MAN_Fx_VOX_Machine.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="48859" loopstart="0" loopend="48859" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Vocals\MAN_Fx_VOX_Business.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="29282" loopstart="0" loopend="29282" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Hi Hats\MAN_Hat_04.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="21098" loopstart="0" loopend="21098" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Percussion\MAN_Electro_Perc_23.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="26540" loopstart="0" loopend="26540" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Vocals\MAN_Fx_VOX_Money.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="35645" loopstart="0" loopend="35645" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Vocals\MAN_Fx_VOX_Currency.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="35720" loopstart="0" loopend="35720" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <clip filename="LOOPMASTERS\02 One Shots\Drums\Hi Hats\LM_Hat_11.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="26460" loopstart="0" loopend="398173" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Vocals\MAN_Fx_VOX_Technology.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="53268" loopstart="0" loopend="53268" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Vocals\MAN_Fx_VOX_Numbers.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="42320" loopstart="0" loopend="42320" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+            <clip filename="LOOPMASTERS\02 One Shots\Vocals\MAN_Fx_VOX_Economy.wav" gaindb="0" pitch="0" panpos="0" samtrigtype="0" loopmode="0" loopmodes="0" midimode="0" reverse="0" cellmode="0" envattack="0" envdecay="0" envsus="1000" envrel="200" samstart="0" samlen="43501" loopstart="0" loopend="43501" quantsize="3" synctype="5" actslice="1" outputbus="0" monomode="1" slicestepmode="0">
+                <modsource dest="gaindb" src="velocity" slot="0" amount="400"/>
+                <modsource dest="gaindb" src="midivol" slot="2" amount="1000"/>
+                <modsource dest="panpos" src="midipan" slot="2" amount="1000"/>
+                <slices/>
+            </clip>
+        </track>
+        <track excl="0" level="0" out="3">
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+            <altcell modmode="custom" modamount="1000" moddest="0"/>
+        </track>
+    </session>
+</document>
